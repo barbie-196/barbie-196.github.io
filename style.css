@@ -1,0 +1,25 @@
+p{
+    color: indigo;
+    background-color: lightgoldenrodyellow;
+}
+ol{
+	background-color: azure;
+	color: mediumvioletred;
+}
+div{
+	background-color:springgreen ;
+}
+.card-body{
+	background-color: lightgoldenrodyellow;
+}
+h6{
+	color: sienna;
+}
+ul{
+	background-color: azure;
+	color: mediumvioletred;
+}
+.collapse{
+	background-color: azure;
+	color: mediumvioletred;
+}
