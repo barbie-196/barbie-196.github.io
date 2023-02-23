@@ -1,25 +1,24 @@
 p{
     color: indigo;
-    background-color: lightgoldenrodyellow;
+    background-color: papayawhip;
 }
-ol{
-	background-color: azure;
-	color: mediumvioletred;
-}
-div{
-	background-color:springgreen ;
-}
+
 .card-body{
-	background-color: lightgoldenrodyellow;
+	background-color: papayawhip;
 }
 h6{
 	color: sienna;
+	background-color: paleturquoise;
+}
+
+ol{
+	color: indigo;
+    background-color: papayawhip;
 }
 ul{
-	background-color: azure;
-	color: mediumvioletred;
+	color: indigo;
+    background-color: papayawhip;
 }
-.collapse{
-	background-color: azure;
-	color: mediumvioletred;
+.container{
+	background-color:mediumorchid ;
 }
