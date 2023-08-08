@@ -7,6 +7,9 @@
 .example{
 	background-color: lightyellow 
 }
-.container{
-	background-color: lightgrey
+body {
+  background-image: url("https://thumbs.dreamstime.com/b/forbidden-mailing-do-not-send-message-flat-style-vector-illustration-icon-isolated-white-background-147273637.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
